@@ -1,3 +1,5 @@
+The content of this repository has been moved to https://github.com/microchip-pic-avr-examples/attiny817-getting-started-with-tcd-studio . Additionally, a repository containing MCC generated code examples for AVR128DA48 with the same functionality can be found at https://github.com/microchip-pic-avr-examples/avr128da48-getting-started-with-tcd-mplab-mcc . This repository is obsolete and it will not be maintained.
+
 (TB3212) ATtiny817 TCD Examples
 ===
 
